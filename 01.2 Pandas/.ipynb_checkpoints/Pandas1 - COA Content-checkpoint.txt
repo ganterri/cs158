@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/187455/counting-array-elements-in-python
+https://stackoverflow.com/questions/40454030/count-and-sort-with-pandas
+https://note.nkmk.me/en/python-pandas-dataframe-rename/
+https://stackoverflow.com/questions/30787901/how-to-get-a-value-from-a-pandas-dataframe-and-not-the-index-and-object-type
+https://data36.com/pandas-tutorial-2-aggregation-and-grouping/
+https://www.geeksforgeeks.org/split-a-text-column-into-two-columns-in-pandas-dataframe/
